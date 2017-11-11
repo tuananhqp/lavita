@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.xwalk:xwalk_core_library-23.53.589.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c9f64f0f23ef7e1bcfd3ed2ba16b2c91a6bfb0c7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c9f64f0f23ef7e1bcfd3ed2ba16b2c91a6bfb0c7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
